@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<assignments>
+  <assignment id="1">
+    <name>Find Project Groups</name>
+    <due_date>21. January 2022</due_date>
+  </assignment>
+  <assignment id="2">
+    <name>Sign Up for Supervision</name>
+    <due_date>26. January 2022</due_date>
+  </assignment>
+  <assignment id="3">
+    <name>First Delivery</name>
+    <due_date>4. February 2022</due_date>
+  </assignment>
+  <assignment id="4">
+    <name>Second Delivery - Initial API</name>
+    <due_date>4. February 2022</due_date>
+  </assignment>
+  <assignment id="5">
+    <name>Third Delivery - First Implementatation</name>
+    <due_date>8. April 2022</due_date>
+  </assignment>
+  <assignment id="6">
+    <name>Final Project Delivery</name>
+    <due_date>13. May 2022</due_date>
+  </assignment>
+</assignments>
